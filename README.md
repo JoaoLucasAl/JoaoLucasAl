@@ -8,6 +8,7 @@
   <a href="https://github.com/joaolucasal">
   <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-vert-nu-72.vercel.app/api?username=joaolucasal&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-vert-nu-72.vercel.app/api/top-langs/?username=joaolucasal&layout=compact&langs_count=7&theme=aura"/>
+    [![Harlok's wakatime stats](https://github-readme-stats-vert-nu-72.vercel.app/api/wakatime?username=ffflabs)](https://github.com/JoaoLucasAl/github-readme-stats)
 </div>
 </div>
 
