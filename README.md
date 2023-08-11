@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/joaolucasal">
   <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-joaolucasal.vercel.app/api?username=joaolucasal&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-joaolucasal.vercel.app/api/top-langs/?username=joaolucasal&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-joaolucasal.vercel.app/api/top-langs/?username=joaolucasal&layout=compact&langs_count=7&theme=aura&hide=html"/>
 </div>
 </div>
 
