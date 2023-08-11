@@ -1,14 +1,16 @@
 ## Oi, eu sou o João Lucas! 
 
-  
   <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<div align="left">
-  <a href="https://github.com/joaolucasal">
-  <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-joaolucasal.vercel.app/api?username=joaolucasal&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats-joaolucasal.vercel.app/api/top-langs/?username=joaolucasal&layout=compact&langs_count=7&theme=aura&hide=html"/>
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador">
+  </div>
+  <br>
+  <div>
+ <a href="https://github.com/joaolucasal">
+    <a href="https://github.com/joaolucasal/github-readme-stats"><img align="center" src="https://github-readme-stats-joaolucasal.vercel.app/api?username=joaolucasal&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="JoaoLucasAl's github stats" /></a>
 </div>
+   <br>
+<div>
+   <a href="https://github.com/joaolucasal/github-readme-stats"><img align="center" src="https://github-readme-stats-joaolucasal.vercel.app/api/top-langs/?username=joaolucasal&layout=compact&theme=aura&hide_border=true&hide=html&count_private=true" /></a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
